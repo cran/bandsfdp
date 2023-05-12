@@ -1,7 +1,7 @@
 Package: bandsfdp
 Title: Compute Upper Prediction Bounds on the FDP in Competition-Based
         Setups
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: c(
     person("Arya", "Ebadi", , "aeba3842@uni.sydney.edu.au", role = c("aut", "cre")),
     person("Dong", "Luo", , "dluo7139@uni.sydney.edu.au", role = "aut"),
@@ -29,7 +29,7 @@ RoxygenNote: 7.1.2
 URL: https://github.com/uni-Arya/bandsfdp
 BugReports: https://github.com/uni-Arya/bandsfdp/issues
 NeedsCompilation: no
-Packaged: 2023-03-15 09:18:54 UTC; aeba3842
+Packaged: 2023-05-12 06:44:34 UTC; aeba3842
 Author: Arya Ebadi [aut, cre],
   Dong Luo [aut],
   Jack Freestone [aut],
@@ -37,4 +37,4 @@ Author: Arya Ebadi [aut, cre],
   Uri Keich [aut] (<https://orcid.org/0000-0002-3209-5011>)
 Maintainer: Arya Ebadi <aeba3842@uni.sydney.edu.au>
 Repository: CRAN
-Date/Publication: 2023-03-15 18:10:13 UTC
+Date/Publication: 2023-05-12 07:20:03 UTC
